@@ -1,0 +1,30 @@
+# Ignore IDE and dev env specific content.
+.idea
+.vagrant
+.env
+.vscode
+backup
+docker-compose.override.yml
+nbproject
+.project
+.buildpath
+/.settings
+composer-setup.php
+
+# Ignore OS specific content.
+Thumbs.db
+.DS_Store
+
+# Ignore binaries.
+
+
+
+
+
+# Ignore local settings.
+
+# Ignore Composer-managed dependencies.
+drush
+vendor
+node_modules
+
